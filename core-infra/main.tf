@@ -113,7 +113,7 @@ resource "azurerm_key_vault_certificate" "res-15" {
 }
 resource "azurerm_key_vault_certificate" "res-16" {
   key_vault_id = "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.KeyVault/vaults/archpockeyv"
-  name         = "joshikun-cert"
+  name         = "xxxxxx-cert"
   certificate_policy {
     issuer_parameters {
       name = "Unknown"
@@ -264,7 +264,7 @@ resource "azurerm_application_gateway" "res-19" {
     name                           = "appservicelistener"
     protocol                       = "Https"
     require_sni                    = true
-    ssl_certificate_name           = "joshikunpfx"
+    ssl_certificate_name           = "xxxxxxx"
   }
   http_listener {
     frontend_ip_configuration_name = "appGwPublicFrontendIpIPv4"
@@ -273,7 +273,7 @@ resource "azurerm_application_gateway" "res-19" {
     name                           = "storagelistener"
     protocol                       = "Https"
     require_sni                    = true
-    ssl_certificate_name           = "joshikunpfx"
+    ssl_certificate_name           = "xxxxxxxx"
   }
   probe {
     interval                                  = 30
@@ -480,9 +480,9 @@ resource "azurerm_linux_web_app" "res-37" {
     STORAGE_ACCOUNT_NAME                  = "archintran229a63044e"
     WEBSITES_CONTAINER_START_TIME_LIMIT   = "1800"
     WEBSITES_ENABLE_APP_SERVICE_STORAGE   = "true"
-    WORDPRESS_ADMIN_EMAIL                 = "joshikunal@microsoft.com"
-    WORDPRESS_ADMIN_PASSWORD              = "Arch$123"
-    WORDPRESS_ADMIN_USER                  = "joshikunal"
+    WORDPRESS_ADMIN_EMAIL                 = "janedo@something.com"
+    WORDPRESS_ADMIN_PASSWORD              = "xxxxxx"
+    WORDPRESS_ADMIN_USER                  = "xxxxxxxx"
     WORDPRESS_LOCALE_CODE                 = "en_US"
     WORDPRESS_LOCAL_STORAGE_CACHE_ENABLED = "true"
     WORDPRESS_TITLE                       = "WordPress On Azure"
