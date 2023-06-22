@@ -1,0 +1,267 @@
+{
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc",
+		"resource_type": "azurerm_resource_group",
+		"resource_name": "res-0"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.DBforMySQL/flexibleServers/archintran-d4379aa4b3df497fa017ae84b09f953d-dbserver": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.DBforMySQL/flexibleServers/archintran-d4379aa4b3df497fa017ae84b09f953d-dbserver",
+		"resource_type": "azurerm_mysql_flexible_server",
+		"resource_name": "res-1"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.DBforMySQL/flexibleServers/archintran-d4379aa4b3df497fa017ae84b09f953d-dbserver/databases/archintran_d4379aa4b3df497fa017ae84b09f953d_database": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.DBforMySQL/flexibleServers/archintran-d4379aa4b3df497fa017ae84b09f953d-dbserver/databases/archintran_d4379aa4b3df497fa017ae84b09f953d_database",
+		"resource_type": "azurerm_mysql_flexible_database",
+		"resource_name": "res-8"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.DBforMySQL/flexibleServers/archintran-d4379aa4b3df497fa017ae84b09f953d-dbserver/databases/information_schema": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.DBforMySQL/flexibleServers/archintran-d4379aa4b3df497fa017ae84b09f953d-dbserver/databases/information_schema",
+		"resource_type": "azurerm_mysql_flexible_database",
+		"resource_name": "res-9"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.DBforMySQL/flexibleServers/archintran-d4379aa4b3df497fa017ae84b09f953d-dbserver/databases/mysql": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.DBforMySQL/flexibleServers/archintran-d4379aa4b3df497fa017ae84b09f953d-dbserver/databases/mysql",
+		"resource_type": "azurerm_mysql_flexible_database",
+		"resource_name": "res-10"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.DBforMySQL/flexibleServers/archintran-d4379aa4b3df497fa017ae84b09f953d-dbserver/databases/performance_schema": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.DBforMySQL/flexibleServers/archintran-d4379aa4b3df497fa017ae84b09f953d-dbserver/databases/performance_schema",
+		"resource_type": "azurerm_mysql_flexible_database",
+		"resource_name": "res-11"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.DBforMySQL/flexibleServers/archintran-d4379aa4b3df497fa017ae84b09f953d-dbserver/databases/sys": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.DBforMySQL/flexibleServers/archintran-d4379aa4b3df497fa017ae84b09f953d-dbserver/databases/sys",
+		"resource_type": "azurerm_mysql_flexible_database",
+		"resource_name": "res-12"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.KeyVault/vaults/archpockeyv": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.KeyVault/vaults/archpockeyv",
+		"resource_type": "azurerm_key_vault",
+		"resource_name": "res-14"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.KeyVault/vaults/archpockeyv/certificates/archwordpresscert": {
+		"resource_id": "https://archpockeyv.vault.azure.net/certificates/archwordpresscert/9351d23fae914df6971d343170dff432",
+		"resource_type": "azurerm_key_vault_certificate",
+		"resource_name": "res-15"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.KeyVault/vaults/archpockeyv/certificates/joshikun-cert": {
+		"resource_id": "https://archpockeyv.vault.azure.net/certificates/joshikun-cert/b6891ebd21b248da9087b6d33cbb1323",
+		"resource_type": "azurerm_key_vault_certificate",
+		"resource_name": "res-16"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.KeyVault/vaults/archpockeyv/certificates/newjoskncert": {
+		"resource_id": "https://archpockeyv.vault.azure.net/certificates/newjoskncert/2acb88b835bc4dd7aa2d32146063c2ab",
+		"resource_type": "azurerm_key_vault_certificate",
+		"resource_name": "res-17"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/applicationGatewayWebApplicationFirewallPolicies/archpocwafpolicy": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/ApplicationGatewayWebApplicationFirewallPolicies/archpocwafpolicy",
+		"resource_type": "azurerm_web_application_firewall_policy",
+		"resource_name": "res-18"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/applicationGateways/archwordpressgw": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/applicationGateways/archwordpressgw",
+		"resource_type": "azurerm_application_gateway",
+		"resource_name": "res-19"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/privateDnsZones/archintran-88801f72c2-privatelink.mysql.database.azure.com": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/privateDnsZones/archintran-88801f72c2-privatelink.mysql.database.azure.com",
+		"resource_type": "azurerm_private_dns_zone",
+		"resource_name": "res-20"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/privateDnsZones/archintran-88801f72c2-privatelink.mysql.database.azure.com/virtualNetworkLinks/archintran-88801f72c2-privatelink.mysql.database.azure.com-vnetlink": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/privateDnsZones/archintran-88801f72c2-privatelink.mysql.database.azure.com/virtualNetworkLinks/archintran-88801f72c2-privatelink.mysql.database.azure.com-vnetlink",
+		"resource_type": "azurerm_private_dns_zone_virtual_network_link",
+		"resource_name": "res-21"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/privateDnsZones/privatelink.blob.core.windows.net": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/privateDnsZones/privatelink.blob.core.windows.net",
+		"resource_type": "azurerm_private_dns_zone",
+		"resource_name": "res-22"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/privateDnsZones/privatelink.blob.core.windows.net/virtualNetworkLinks/ezyemrke6agus": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/privateDnsZones/privatelink.blob.core.windows.net/virtualNetworkLinks/ezyemrke6agus",
+		"resource_type": "azurerm_private_dns_zone_virtual_network_link",
+		"resource_name": "res-23"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/privateEndpoints/archwordpresspe": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/privateEndpoints/archwordpresspe",
+		"resource_type": "azurerm_private_endpoint",
+		"resource_name": "res-24"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/publicIPAddresses/archwordpresspip": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/publicIPAddresses/archwordpresspip",
+		"resource_type": "azurerm_public_ip",
+		"resource_name": "res-26"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/publicIPAddresses/archwordpresspip1": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/publicIPAddresses/archwordpresspip1",
+		"resource_type": "azurerm_public_ip",
+		"resource_name": "res-27"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/publicIPAddresses/archwordpresspip2": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Network/publicIPAddresses/archwordpresspip2",
+		"resource_type": "azurerm_public_ip",
+		"resource_name": "res-28"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Storage/storageAccounts/archintran229a63044e": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Storage/storageAccounts/archintran229a63044e",
+		"resource_type": "azurerm_storage_account",
+		"resource_name": "res-29"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Storage/storageAccounts/archintran229a63044e/blobServices/default/containers/blobarchintran229a63044e": {
+		"resource_id": "https://archintran229a63044e.blob.core.windows.net/blobarchintran229a63044e",
+		"resource_type": "azurerm_storage_container",
+		"resource_name": "res-31"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Web/certificates/joshikun.com-archintranet": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Web/certificates/joshikun.com-archintranet",
+		"resource_type": "azurerm_app_service_certificate",
+		"resource_name": "res-35"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Web/serverFarms/ASP-Archwordpresspoc-8b3b": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Web/serverfarms/ASP-Archwordpresspoc-8b3b",
+		"resource_type": "azurerm_service_plan",
+		"resource_name": "res-36"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Web/sites/archintranet": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Web/sites/archintranet",
+		"resource_type": "azurerm_linux_web_app",
+		"resource_name": "res-37"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Web/sites/archintranet/hostNameBindings/*.joshikun.com": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Web/sites/archintranet/hostNameBindings/*.joshikun.com",
+		"resource_type": "azurerm_app_service_custom_hostname_binding",
+		"resource_name": "res-41"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Web/sites/archintranet/hostNameBindings/archintranet.azurewebsites.net": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/Arch-wordpress-poc/providers/Microsoft.Web/sites/archintranet/hostNameBindings/archintranet.azurewebsites.net",
+		"resource_type": "azurerm_app_service_custom_hostname_binding",
+		"resource_name": "res-42"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-Archwordpressgwsubnet-nsg-eastus2": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-Archwordpressgwsubnet-nsg-eastus2",
+		"resource_type": "azurerm_network_security_group",
+		"resource_name": "res-166"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-Archwordpressgwsubnet-nsg-eastus2/securityRules/AllowGatewayManager": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-Archwordpressgwsubnet-nsg-eastus2/securityRules/AllowGatewayManager",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-167"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-Archwordpressgwsubnet-nsg-eastus2/securityRules/AllowTagCustom3443Inbound": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-Archwordpressgwsubnet-nsg-eastus2/securityRules/AllowTagCustom3443Inbound",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-168"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-Archwordpressgwsubnet-nsg-eastus2/securityRules/AllowTagCustom8080Inbound": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-Archwordpressgwsubnet-nsg-eastus2/securityRules/AllowTagCustom8080Inbound",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-169"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-Archwordpressgwsubnet-nsg-eastus2/securityRules/AllowTagCustom8080Outbound": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-Archwordpressgwsubnet-nsg-eastus2/securityRules/AllowTagCustom8080Outbound",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-170"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintran-88801f72c2-appsubnet-nsg-eastus2": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintran-88801f72c2-appsubnet-nsg-eastus2",
+		"resource_type": "azurerm_network_security_group",
+		"resource_name": "res-171"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintran-88801f72c2-appsubnet-nsg-eastus2/securityRules/AllowCorpnet": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintran-88801f72c2-appsubnet-nsg-eastus2/securityRules/AllowCorpnet",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-172"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintran-88801f72c2-appsubnet-nsg-eastus2/securityRules/AllowSAW": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintran-88801f72c2-appsubnet-nsg-eastus2/securityRules/AllowSAW",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-173"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintran-88801f72c2-appsubnet-nsg-eastus2/securityRules/AllowTagCustom8080Outbound": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintran-88801f72c2-appsubnet-nsg-eastus2/securityRules/AllowTagCustom8080Outbound",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-174"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintran-88801f72c2-dbsubnet-nsg-eastus2": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintran-88801f72c2-dbsubnet-nsg-eastus2",
+		"resource_type": "azurerm_network_security_group",
+		"resource_name": "res-175"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintran-88801f72c2-dbsubnet-nsg-eastus2/securityRules/AllowCorpnet": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintran-88801f72c2-dbsubnet-nsg-eastus2/securityRules/AllowCorpnet",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-176"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintran-88801f72c2-dbsubnet-nsg-eastus2/securityRules/AllowSAW": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintran-88801f72c2-dbsubnet-nsg-eastus2/securityRules/AllowSAW",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-177"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintranetstoragepesubnet-nsg-eastus2": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintranetstoragepesubnet-nsg-eastus2",
+		"resource_type": "azurerm_network_security_group",
+		"resource_name": "res-178"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintranetstoragepesubnet-nsg-eastus2/securityRules/AllowCorpnet": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintranetstoragepesubnet-nsg-eastus2/securityRules/AllowCorpnet",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-179"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintranetstoragepesubnet-nsg-eastus2/securityRules/AllowSAW": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/networkSecurityGroups/archintran-f0f2d998eb-vnet-archintranetstoragepesubnet-nsg-eastus2/securityRules/AllowSAW",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-180"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/privateDnsZones/archintran-88801f72c2-privatelink.mysql.database.azure.com/A/archintran-d4379aa4b3df497fa017ae84b09f953d-dbserver": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/privateDnsZones/archintran-88801f72c2-privatelink.mysql.database.azure.com/A/archintran-d4379aa4b3df497fa017ae84b09f953d-dbserver",
+		"resource_type": "azurerm_private_dns_a_record",
+		"resource_name": "res-181"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet",
+		"resource_type": "azurerm_virtual_network",
+		"resource_name": "res-184"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet/subnets/Archwordpressgwsubnet": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet/subnets/Archwordpressgwsubnet",
+		"resource_type": "azurerm_subnet",
+		"resource_name": "res-185"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet/subnets/Archwordpressgwsubnet/networkSecurityGroups/L3N1YnNjcmlwdGlvbnMvYzNkZjZiNjAtMjViMy00YjdjLWE5YTUtY2NmMTU0ZjY4OTYzL3Jlc291cmNlR3JvdXBzL2FyY2gtd29yZHByZXNzLXBvYy9wcm92aWRlcnMvTWljcm9zb2Z0Lk5ldHdvcmsvbmV0d29ya1NlY3VyaXR5R3JvdXBzL2FyY2hpbnRyYW4tZjBmMmQ5OThlYi12bmV0LUFyY2h3b3JkcHJlc3Nnd3N1Ym5ldC1uc2ctZWFzdHVzMg==": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet/subnets/Archwordpressgwsubnet",
+		"resource_type": "azurerm_subnet_network_security_group_association",
+		"resource_name": "res-186"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet/subnets/archintran-88801f72c2-appsubnet": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet/subnets/archintran-88801f72c2-appsubnet",
+		"resource_type": "azurerm_subnet",
+		"resource_name": "res-187"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet/subnets/archintran-88801f72c2-appsubnet/networkSecurityGroups/L3N1YnNjcmlwdGlvbnMvYzNkZjZiNjAtMjViMy00YjdjLWE5YTUtY2NmMTU0ZjY4OTYzL3Jlc291cmNlR3JvdXBzL2FyY2gtd29yZHByZXNzLXBvYy9wcm92aWRlcnMvTWljcm9zb2Z0Lk5ldHdvcmsvbmV0d29ya1NlY3VyaXR5R3JvdXBzL2FyY2hpbnRyYW4tZjBmMmQ5OThlYi12bmV0LWFyY2hpbnRyYW4tODg4MDFmNzJjMi1hcHBzdWJuZXQtbnNnLWVhc3R1czI=": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet/subnets/archintran-88801f72c2-appsubnet",
+		"resource_type": "azurerm_subnet_network_security_group_association",
+		"resource_name": "res-188"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet/subnets/archintran-88801f72c2-dbsubnet": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet/subnets/archintran-88801f72c2-dbsubnet",
+		"resource_type": "azurerm_subnet",
+		"resource_name": "res-189"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet/subnets/archintran-88801f72c2-dbsubnet/networkSecurityGroups/L3N1YnNjcmlwdGlvbnMvYzNkZjZiNjAtMjViMy00YjdjLWE5YTUtY2NmMTU0ZjY4OTYzL3Jlc291cmNlR3JvdXBzL2FyY2gtd29yZHByZXNzLXBvYy9wcm92aWRlcnMvTWljcm9zb2Z0Lk5ldHdvcmsvbmV0d29ya1NlY3VyaXR5R3JvdXBzL2FyY2hpbnRyYW4tZjBmMmQ5OThlYi12bmV0LWFyY2hpbnRyYW4tODg4MDFmNzJjMi1kYnN1Ym5ldC1uc2ctZWFzdHVzMg==": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet/subnets/archintran-88801f72c2-dbsubnet",
+		"resource_type": "azurerm_subnet_network_security_group_association",
+		"resource_name": "res-190"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet/subnets/archintranetstoragepesubnet": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet/subnets/archintranetstoragepesubnet",
+		"resource_type": "azurerm_subnet",
+		"resource_name": "res-191"
+	},
+	"/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet/subnets/archintranetstoragepesubnet/networkSecurityGroups/L3N1YnNjcmlwdGlvbnMvYzNkZjZiNjAtMjViMy00YjdjLWE5YTUtY2NmMTU0ZjY4OTYzL3Jlc291cmNlR3JvdXBzL2FyY2gtd29yZHByZXNzLXBvYy9wcm92aWRlcnMvTWljcm9zb2Z0Lk5ldHdvcmsvbmV0d29ya1NlY3VyaXR5R3JvdXBzL2FyY2hpbnRyYW4tZjBmMmQ5OThlYi12bmV0LWFyY2hpbnRyYW5ldHN0b3JhZ2VwZXN1Ym5ldC1uc2ctZWFzdHVzMg==": {
+		"resource_id": "/subscriptions/c3df6b60-25b3-4b7c-a9a5-ccf154f68963/resourceGroups/arch-wordpress-poc/providers/Microsoft.Network/virtualNetworks/archintran-f0f2d998eb-vnet/subnets/archintranetstoragepesubnet",
+		"resource_type": "azurerm_subnet_network_security_group_association",
+		"resource_name": "res-192"
+	}
+}
